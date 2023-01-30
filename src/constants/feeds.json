@@ -1,0 +1,66 @@
+{
+    "money_control":{
+        "source": "Money Control",
+        "feeds":[{
+            "label": "Latest News",
+            "link": "https://www.moneycontrol.com/rss/latestnews.xml"
+        }, {
+            "label": "Business",
+            "link": "https://www.moneycontrol.com/rss/business.xml"
+        }, {
+            "label": "Brokerage Recommendations",
+            "link": "https://www.moneycontrol.com/rss/brokeragerecos.xml"
+        }, {
+            "label": "Buzzing Stocks",
+            "link": "https://www.moneycontrol.com/rss/buzzingstocks.xml"
+        }, {
+            "label": "Economy",
+            "link": "https://www.moneycontrol.com/rss/economy.xml"
+        }, {
+            "label": "Market Reports",
+            "link": "https://www.moneycontrol.com/rss/marketreports.xml"
+        }, {
+            "label": "International Markets",
+            "link": "https://www.moneycontrol.com/rss/internationalmarkets.xml"
+        }, {
+            "label": "Market Edge",
+            "link": "https://www.moneycontrol.com/rss/marketedge.xml"
+        }, {
+            "label": "Market Outlook",
+            "link": "https://www.moneycontrol.com/rss/marketoutlook.xml"
+        }, {
+            "label": "Technicals",
+            "link": "https://www.moneycontrol.com/rss/technicals.xml"
+        }, {
+            "label": "IPO News",
+            "link": "https://www.moneycontrol.com/rss/iponews.xml"
+        }, {
+            "label": "Insurance News",
+            "link": "https://www.moneycontrol.com/rss/insurancenews.xml"
+        }, {
+            "label": "Results",
+            "link": "https://www.moneycontrol.com/rss/results.xml"
+        }, {
+            "label": "Technology",
+            "link": "https://www.moneycontrol.com/rss/technology.xml"
+        }, {
+            "label": "Entertainment",
+            "link": "https://www.moneycontrol.com/rss/entertainment.xml"
+        }, {
+            "label": "World News",
+            "link": "https://www.moneycontrol.com/rss/worldnews.xml"
+        }, {
+            "label": "Sports",
+            "link": "https://www.moneycontrol.com/rss/sports.xml"
+        }, {
+            "label": "Current Affairs",
+            "link": "https://www.moneycontrol.com/rss/currentaffairs.xml"
+        }, {
+            "label": "Currency",
+            "link": "https://www.moneycontrol.com/rss/currency.xml"
+        }, {
+            "label": "Top Videos",
+            "link": "https://www.moneycontrol.com/rss/topvideos.xml"
+        }]
+    }
+}
